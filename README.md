@@ -139,6 +139,3 @@ RAG System using AWS/
 | Nova Multimodal | Text + Image | us-east-1 | Full multimodal RAG |
 | Titan Embeddings v2 | Text only | Multiple | Fallback when Nova unavailable |
 
-## License
-
-MIT
