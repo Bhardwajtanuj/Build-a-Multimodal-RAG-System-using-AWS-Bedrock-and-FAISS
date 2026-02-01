@@ -1,0 +1,1 @@
+# Build-a-Multimodal-RAG-System-using-AWS-Bedrock-and-FAISS
